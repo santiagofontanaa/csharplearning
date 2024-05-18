@@ -4,6 +4,7 @@
  > int - Only for INTEGER NUMBERS
  > double - Only for FLOATING NUMBERS
  > char - Only for SINGLES CHARACTERS
+ > std::string - Stores TEXT
  > bool - Only for TRUE or FALSE
 
  The sintax for create a variable is the next:
@@ -39,6 +40,7 @@ int main() {
     int intNum = 10;
     double doubleNum = 10.99;
     char charLetter = 'A';
+    std::string stringText = "Hello World!";
     bool boolValue = true;
 
     // We too can make Multiple Variables
