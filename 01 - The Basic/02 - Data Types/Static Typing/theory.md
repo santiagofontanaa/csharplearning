@@ -1,0 +1,1 @@
+Static Typing means that a variable will be compiled with the program at the same time. When we create a static type variable, that variable will only work with the data type we put before it. Basically is an object that persists from the time it's constructed until the end of the program
